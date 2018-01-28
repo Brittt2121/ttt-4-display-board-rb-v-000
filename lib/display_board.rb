@@ -8,8 +8,8 @@ board6 = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
 board7 = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
 board8 = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
 board9 = ["X", "O", "X", "O", "X", "X", "O", "X", "O"]
-board10 = ["X", "X", "X", "X", "X", "X", "X", "X", "X"] 
-board11 = ["O", "O", "O", "O", "O", "O", "O", "O", "O"] 
+board10 = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
+board11 = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
 
 
 def display_board(board)
@@ -47,5 +47,3 @@ display_board(board9)
 display_board(board10)
 
 display_board(board11)
-
-     
